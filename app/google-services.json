@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831170302363",
+    "firebase_url": "https://testgcm-fe920.firebaseio.com",
+    "project_id": "testgcm-fe920",
+    "storage_bucket": "testgcm-fe920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831170302363:android:5aa420c218508405",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831170302363-uo9li61ph16tmd2u5u7i9kqfe9os6kta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQ9EwYKLH0vHbL1D6eiHoOoFMyyP9FoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

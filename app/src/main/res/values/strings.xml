@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">Main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="new_message_notification_title_template">Lamsa: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template"> we remember you about the item you buy from lamsa %1$s
+    </string>
+
+ <string name="remember">we remember you about item you buy from lamsa.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+</resources>
